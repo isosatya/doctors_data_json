@@ -1,0 +1,124 @@
+{
+    "doctors": [
+        {
+            "id": "6ed5fe15-6133-4585-bc27-0fc3bff2a2c2",
+            "lanr": "369029253",
+            "office": "833665834",
+            "firstname": "Centa",
+            "lastname": "Gertz",
+            "title": null,
+            "registrationDate": "2022-06-22",
+            "cancellationDate": "2023-01-25",
+            "createdAt": "2021-07-22T08:40:32",
+            "updatedAt": "2020-05-05T15:01:11"
+        },
+        {
+            "id": "52b4ae6e-771f-432b-a19d-fe50e08a55a9",
+            "lanr": "797504252",
+            "office": "953590496",
+            "firstname": "Loni",
+            "lastname": "Lehmann",
+            "title": null,
+            "registrationDate": "2023-04-24",
+            "cancellationDate": null,
+            "createdAt": "2021-11-06T21:30:25",
+            "updatedAt": "2021-03-08T00:21:59"
+        },
+        {
+            "id": "200a81f5-6c65-4427-b253-16bca439cfc8",
+            "lanr": "683884287",
+            "office": "484727761",
+            "firstname": "Claus",
+            "lastname": "Ortmann",
+            "title": null,
+            "registrationDate": "2023-08-20",
+            "cancellationDate": null,
+            "createdAt": "2023-05-24T00:10:29",
+            "updatedAt": "2020-07-12T03:15:26"
+        },
+        {
+            "id": "55018538-845e-4b0c-b48b-d8d4a7fe5b60",
+            "lanr": "373074137",
+            "office": "763672560",
+            "firstname": "Edward",
+            "lastname": "Kroker",
+            "title": null,
+            "registrationDate": "2023-10-18",
+            "cancellationDate": null,
+            "createdAt": "2021-06-24T20:39:36",
+            "updatedAt": null
+        },
+        {
+            "id": "42f5a2ad-fb49-4b04-a60e-c5a22b671051",
+            "lanr": "429042427",
+            "office": "574451100",
+            "firstname": "Gottlieb",
+            "lastname": "Pärtzelt",
+            "title": "Prof.",
+            "registrationDate": "2021-09-23",
+            "cancellationDate": "2021-12-17",
+            "createdAt": "2022-11-15T21:37:48",
+            "updatedAt": "2020-09-06T03:28:30"
+        },
+        {
+            "id": "f7fff73f-db1a-49ca-81f9-638de2c6165a",
+            "lanr": "983539090",
+            "office": "163765682",
+            "firstname": "Norma",
+            "lastname": "Jäkel",
+            "title": "Prof.",
+            "registrationDate": "2020-01-22",
+            "cancellationDate": "2023-07-04",
+            "createdAt": "2021-04-17T22:39:46",
+            "updatedAt": null
+        },
+        {
+            "id": "13d4361a-06aa-4447-99c8-d3b2a111e168",
+            "lanr": "717671202",
+            "office": "467054105",
+            "firstname": "Küthi",
+            "lastname": "Losekann",
+            "title": null,
+            "registrationDate": "2023-05-30",
+            "cancellationDate": "2020-03-25",
+            "createdAt": "2021-11-26T16:40:15",
+            "updatedAt": "2022-03-21T12:25:36"
+        },
+        {
+            "id": "367d2b72-09d4-4147-ba62-59930a02b99b",
+            "lanr": "788492837",
+            "office": "579528292",
+            "firstname": "Rudi",
+            "lastname": "Mende",
+            "title": null,
+            "registrationDate": "2022-08-22",
+            "cancellationDate": null,
+            "createdAt": "2022-11-23T19:10:08",
+            "updatedAt": "2021-08-25T07:02:17"
+        },
+        {
+            "id": "58713d60-5904-4215-adcd-6ff217ed7de2",
+            "lanr": "534635896",
+            "office": "220768981",
+            "firstname": "Roberto",
+            "lastname": "Heydrich",
+            "title": null,
+            "registrationDate": "2021-09-01",
+            "cancellationDate": "2023-07-04",
+            "createdAt": "2020-07-13T02:35:59",
+            "updatedAt": null
+        },
+        {
+            "id": "48b4f1bb-c329-4bd4-ab71-c3e3b6514916",
+            "lanr": "908394689",
+            "office": "998034771",
+            "firstname": "Benjamin",
+            "lastname": "Mies",
+            "title": null,
+            "registrationDate": "2023-04-29",
+            "cancellationDate": "2020-08-14",
+            "createdAt": "2020-03-25T08:33:07",
+            "updatedAt": "2023-04-07T21:33:39"
+        }
+    ]
+}
